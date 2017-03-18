@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Musical structure</string>
+    <string name="app_name">Musical App structure</string>
+    <string name="MainScreen">Main Screen!</string>
+    <string name="SongsScreen">A list of songs</string>
+    <string name="SongDetailsScreen">here is a breif info about the song and the singer</string>
+    <string name="InAppPurchaseScreen">here the user will be asked to confirm the payment (In-App purchase) using this library: https://github.com/anjlab/android-inapp-billing-v3</string>
 </resources>
